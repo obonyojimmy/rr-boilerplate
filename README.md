@@ -1,4 +1,7 @@
-# React&Redux boilerplate [![Build Status](https://travis-ci.org/a-tarasyuk/rr-boilerplate.svg?branch=master)](https://travis-ci.org/a-tarasyuk/rr-boilerplate)
+# React&Redux boilerplate 
+
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://travis-ci.org/a-tarasyuk/rr-boilerplate/blob/master/LICENSE) [![npm](https://img.shields.io/npm/v/npm.svg)](https://github.com/a-tarasyuk/rr-boilerplate) [![Build Status](https://img.shields.io/travis/a-tarasyuk/rr-boilerplate/master.svg)](https://travis-ci.org/a-tarasyuk/rr-boilerplate) [![David](https://img.shields.io/david/a-tarasyuk/rr-boilerplate.svg)](https://github.com/a-tarasyuk/rr-boilerplate) [![David](https://img.shields.io/david/dev/a-tarasyuk/rr-boilerplate.svg)](https://github.com/a-tarasyuk/rr-boilerplate)
+
 > Lightweight React&Redux boilerplate
 
 ### Getting started
