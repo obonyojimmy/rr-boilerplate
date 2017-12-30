@@ -14,7 +14,7 @@
 ### Libraries/Tools
 - [React 16.*](https://facebook.github.io/react)
 - [Redux](https://github.com/rackt/redux)
-- [React Router Dom - 4.0.0](https://github.com/ReactTraining/react-router/tree/master/packages/react-router-dom)
+- [React Router Dom - 4.*](https://github.com/ReactTraining/react-router/tree/master/packages/react-router-dom)
 - [React Router Redux - **5.0.0-alpha.9**](https://github.com/ReactTraining/react-router/tree/master/packages/react-router-redux)
 - [Webpack-3](https://webpack.github.io)
 - [Babel](https://babeljs.io)
